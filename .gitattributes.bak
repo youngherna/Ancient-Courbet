@@ -1,0 +1,9 @@
+Ancient Changelog (Courbet)
+
+* Switched to New device trees (sm-6150 common)
+* Switch back to thermal blobs from 12.0.3.0.
+* Improved BT audio in some cases
+* Improved Low mic in some apps
+* Improved camera in some apps
+* More Stable and Smooth :)
+
