@@ -1,4 +1,10 @@
 Ancient Changelog (Courbet) 
+---------- 12-02-2022 ------------------
+* Fixed issues with AOSP gestures
+* Fixed Google Assist
+* Updated dynamic refresh rate 
+* Removed updatable apex
+* Kernel: Compiled with Proton clang 13.0.0
 
 ---------- 03-02-2022 ------------------
 *  Fixed mic issues in Whatsapp
